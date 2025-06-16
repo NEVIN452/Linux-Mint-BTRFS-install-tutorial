@@ -1,8 +1,12 @@
 # Linux-Mint-BTRFS-install-tutorial
-A tutorial explaining the process of installing Linux mint with BTRFS
+A tutorial explaining the process of installing Linux Mint 22.x/LMDE6/7 with BTRFS
 
 
-## **On this guide, I'll teach you how to clean install mint 22 with BTRFS snapshots. that way, you can rollback in case anything goes wrong, and the best thing, is that snapshots can be accessed from GRUB.**
+This tutorial is hosted on https://github.com/orgs/linuxmint/discussions/549
+
+I cloned it to have a backup of it on my account.
+
+## **On this guide, I'll teach you how to clean install mint 22.x/LMDE6+ with BTRFS snapshots. that way, you can rollback in case anything goes wrong, and the best thing, is that snapshots can be accessed from GRUB.**
 
 
 
