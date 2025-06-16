@@ -337,7 +337,7 @@ It should be same as with single boot, but this time, you target the drive that 
 
 # - Why I'm writing this guide? 
 
-On my time on the Linux Mint discord server, I came across countless broken Mint installs because the users installed another desktop like GNOME or KDE Plasma which are not supported, then wanted to remove it, and that lead to a broken system, frankenmint, dependency hell or TTY-only systems, some times, unable to recover even with rsync timeshift. So, I began to research the posibility of using BTRFS with mint, as I've already experimented with it on Arch Linux, and so far, it has worked like a charm. now considering the nature of mint as a stable distro, this should come handy for several users, so they can recover easily. 
+On my time on the Linux Mint community, I came across countless broken Mint installs because the users installed another desktop like GNOME or KDE Plasma which are not supported, then wanted to remove it, and that lead to a broken system, frankenmint, dependency hell or TTY-only systems, some times, unable to recover even with rsync timeshift. So, I began to research the posibility of using BTRFS with mint, as I've already experimented with it on Arch Linux, and so far, it has worked like a charm. now considering the nature of mint as a stable distro, this should come handy for several users, so they can recover easily, due to the snapshots features of BTRFS.
 
 
 - How you can contribute?
@@ -357,6 +357,10 @@ For the future, I would like Mint team to consider using BTRFS as default, or li
 **Aknowledgements**: 
 
 Mint team, for creating such a wonderful distro, making Linux easier to use.
-Mint discord server, for being with me for years, I wouldn't wrote this if it were not of the issues there.
+
+Linux Mint Community, for being wholesome and main inspiration for writing this.
+
 Antynea, for making grub-btrfs, without it, this would be incomplete.
+
+Coopydood, for making the awesome Hyperfluent GRUB theme: https://github.com/Coopydood/HyperFluent-GRUB-Theme
 
